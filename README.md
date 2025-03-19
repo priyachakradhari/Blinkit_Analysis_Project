@@ -45,3 +45,10 @@ Gain insights into sales trends, outlet performance, and product demand.
 Feel free to fork this repository, suggest improvements, or use this dashboard as inspiration for your projects!
 
 ⭐ If you find this useful, give this repository a star! ⭐
+
+![image](https://github.com/user-attachments/assets/efe3fce5-4072-4def-abc2-0c41cd2cdeb1)
+
+![image](https://github.com/user-attachments/assets/0939feca-b140-4f98-b7d9-09dd794ee505)
+
+![image](https://github.com/user-attachments/assets/03e1e1f4-df0b-4f28-968e-8487db8ccc67)
+
